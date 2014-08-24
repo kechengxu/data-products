@@ -1,9 +1,9 @@
 data-products
 =============
 
-This repo contains the ui.R and server.R file to run the shiny app.
+This app is designed to predict cars' fuel efficiency (represented by MPG, miles per gallon) based on the information of car transmission type, weight and gross horsepower.
 
-How to run this project?
+How to run this app?
 
 1. Clone this repository: git clone https://github.com/coursera-/CourseraDevelopingDataProductsProject
 2. Start R session or launch RStudio
